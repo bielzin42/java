@@ -6,7 +6,7 @@ public class ex01 {
 
 		int total = 0;
 		
-		for (int i = 0; i < 500; i+=3) {							
+		for (int i = 0; i <= 500; i+=3) {							
 			if (i % 2 == 0 ) {
 				
 			}
